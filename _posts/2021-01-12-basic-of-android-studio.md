@@ -72,6 +72,8 @@ public class MainActivity extends AppCompatActivity {
   * 즉, xml 파일들은 어플리케이션의 각 화면을 의미한다고 할 수 있다.
   * 화면을 수정함에 있어서 소스 코드를 직접 수정하는 방법과 디자인 탭에서 간편하게 진행하는 방법이 있다.
 
+<br>
+
 ### **기본적 예시**
 **Auto Import**: [File > Settings > Editor > General > Auto Import]
 {: .notice--info}

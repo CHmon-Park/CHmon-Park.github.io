@@ -3,5 +3,5 @@ title: Categories
 layout: categories
 permalink: /categories/
 show_excerpts: true
-entries_layout: list
+entries_layout: grid
 ---
