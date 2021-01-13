@@ -1,5 +1,6 @@
 ---
 title: "Basic of XML Files"
+excerpt_separator: "<!--more-->"
 categories:
   - Android Application
 tags:
@@ -9,7 +10,7 @@ tags:
   - XML
 last_modified_at: 2021-01-13T19:21:00
 ---
-
+<!--more-->
 <br>
 
 ## XML의 기본 속성

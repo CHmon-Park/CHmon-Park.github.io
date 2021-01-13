@@ -1,5 +1,6 @@
 ---
 title: "View and layout"
+excerpt_separator: "<!--more-->"
 categories:
   - Android Application
 tags:
@@ -10,6 +11,7 @@ tags:
   - Layout
 last_modified_at: 2021-01-13T17:21:00
 ---
+<!--more-->
 
 <br>
 
