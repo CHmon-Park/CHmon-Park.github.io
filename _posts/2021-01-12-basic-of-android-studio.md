@@ -1,5 +1,6 @@
 ---
 title: "Basic of Android Studio"
+excerpt_separator: "<!--more-->"
 categories:
   - Android Application
 tags:
@@ -8,6 +9,7 @@ tags:
   - Android Studio
 last_modified_at: 2020-01-12T17:38:00
 ---
+<!--more-->
 <br>
 # **안드로이드**
 
