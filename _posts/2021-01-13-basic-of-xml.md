@@ -1,5 +1,6 @@
 ---
 title: "Basic of XML Files"
+excerpt: "What is XML / Features of XML"
 excerpt_separator: "<!--more-->"
 categories:
   - Android Application

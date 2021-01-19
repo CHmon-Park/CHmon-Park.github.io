@@ -1,5 +1,6 @@
 ---
 title: "ScrollView and Bitmap Image Change(Code)"
+excerpt: "Practice of using ScrollView and Bitmap Image"
 excerpt_separator: "<!--more-->"
 categories:
   - Android Application

@@ -1,5 +1,6 @@
 ---
 title: "Basic of Android Studio"
+excerpt: "Definition and feature of Android / What is Android Studio"
 excerpt_separator: "<!--more-->"
 categories:
   - Android Application

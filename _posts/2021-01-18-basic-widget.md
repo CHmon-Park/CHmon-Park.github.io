@@ -1,5 +1,6 @@
 ---
 title: "Basic Widgets"
+excerpt: "What is Widget / Examples of Widget"
 excerpt_separator: "<!--more-->"
 categories:
   - Android Application

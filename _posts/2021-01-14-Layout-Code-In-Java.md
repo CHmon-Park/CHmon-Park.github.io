@@ -1,5 +1,6 @@
 ---
 title: "Layout Code in Java"
+excerpt: "How to make a Layout in Java Code"
 excerpt_separator: "<!--more-->"
 categories:
   - Android Application
