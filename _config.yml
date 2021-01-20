@@ -17,11 +17,13 @@ remote_theme: "mmistakes/so-simple-theme@3.2.0"
 # remote_theme: mmistakes/so-simple-theme
 skin: "/assets/css/skins/default.css"
 locale: en-US
-title: "Logs of CH"
+title: #"Logs of CH"
 description: "Logs about sw-engineering, hardwares, and daily life."
 baseurl: # the subpath of your site, e.g. "/blog"
 url: "https://chanhyung-park.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-logo: # path of site logo, e.g. "/images/logo.png"
+logo: '/images/page_logo.png' # path of site logo, e.g. "/images/logo.png"
+image:
+  path: "/images/metamon.jpg"
 date_format: "%Y-%-m-%d"
 read_time: # reading time estimates, e.g. true
 words_per_minute: # 200
