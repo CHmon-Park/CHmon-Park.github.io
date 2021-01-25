@@ -188,5 +188,5 @@ public class MainActivity extends AppCompatActivity {
   * 위 코드에서 configChanges 속성 중 keyboardHidden 값은 액티비티가 보일 때 키패드가 자동으로 나타나지 않도록 한다.
   * 액티비티의 방향을 세로 또는 가로로 고정시키고 싶다면 Manifest 파일에서 액티비티의 screenOrientation 속성 값을 landscape나 portrait으로 설정하면 된다.
 
-**메소드 재정의 방법**: 매소드를 재정의하고 싶은 클래스를 클릭한 후 'Crtl + O' 를 누르거나 'Generate -> Override Methods'를 실행한다.
+**메소드 재정의 방법**: 메소드를 재정의하고 싶은 클래스를 클릭한 후 'Crtl + O' 를 누르거나 'Generate -> Override Methods'를 실행한다.
 {: .notice--info}
