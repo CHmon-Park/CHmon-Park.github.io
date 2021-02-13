@@ -8,7 +8,7 @@ tags:
   - Vue.js
   - JavaScript
   - VS Code
-last_modified_at: 2021-02-02T11:30:00
+last_modified_at: 2021-02-03T10:30:00
 ---
 <!--more-->
 
@@ -43,6 +43,9 @@ last_modified_at: 2021-02-02T11:30:00
   * 기타..
     1. activated
     2. deactivated
+    
+**DOM 이란?**: DOM은 Document Object Model의 약자로, HTML, XML 문서의 프로그래밍 인터페이스이다. nodes, property, method를 갖고 있는 objects로 문서를 표현하고, 프로그래밍 언어가 DOM 구조에 접근할 수 있는 방법을 제공하여 그들이 문서 구조, 스타일, 내용 등을 변경할 수 있게 돕는다. 즉, html/css/js 와 같은 파일을 웹에서 보일 수 있는 형태로 만들어 출력한 것이라고 할 수 있다. 
+{: .notice--info}
   
   
 #### Vue 설치
@@ -131,4 +134,10 @@ last_modified_at: 2021-02-02T11:30:00
   * tailwind란 css 속성들을 모아놓은 파일로서, 보다 직관적인 네이밍과 속성값들로 css 적용을 편하게 해주는 도구라고 할 수 있다.
   * 설치과정은 다음과 같다.
     1. 'vue add tailwind' 라는 명령어를 통해 tailwind를 다운로드 받는다. 이 경우 vue 명령어를 사용해야 하기에 vue가 다운로드 되어 있어야 한다.
+    
+#### Vue.js devtools 설치(크롬)
+
+  * Vue.js devtools를 이용하면 크롬의 개발자도구에서 vue 페이지의 컴포넌트나 데이터 등을 한 눈에 볼 수 있다.
+  * 페이지의 데이터를 임시적으로 동적 수정하여 즉석에서 테스트도 가능하다.
+  
         
