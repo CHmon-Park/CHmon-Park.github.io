@@ -6,7 +6,7 @@ layout: default
   <article class="h-entry">
     {% include page-image.html %}
     <div class="page-wrapper">
-      <header class="page-header" style="margin-left: 21%; margin-top: 50px;">
+      <header class="page-header" style="margin-left: 9%; margin-top: 50px;">
         {% assign title = page.title | markdownify | strip_html %}
         {% if page.link %}
           <h1 id="page-title" class="page-title p-name"><a href="{{ page.link }}">{{ title }} <span class="link-arrow">&rarr;</span></a></h1>
@@ -15,7 +15,7 @@ layout: default
         {% endif %}
       </header>
 
-      <div class="page-sidebar" style="margin-top: 50%;">
+      <div class="page-sidebar" style="margin-top: 25%;">
         {% include page-author.html %}
         {% include page-categories.html %}
         {% include page-tags.html %}
