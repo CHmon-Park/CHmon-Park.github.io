@@ -60,7 +60,7 @@ h1 {
 }
 
 h2 {
-  @include fluid-type($min-vw, $max-vw, $h2-min, $h1-max);
+  @include fluid-type($min-vw, $max-vw, $h2-min, $h2-max);
   color: #4477d7;
   font-family: Ebrima;
   background: #ffc1c1;
@@ -77,13 +77,13 @@ h2 {
 }
 
 h3 {
-  @include fluid-type($min-vw, $max-vw, $h3-min, $h2-max);
+  @include fluid-type($min-vw, $max-vw, $h3-min, $h3-max);
   color: #00adb5;
   margin-top: 50px;
 }
 
 h4 {
-  @include fluid-type($min-vw, $max-vw, $h4-min, $h3-max);
+  @include fluid-type($min-vw, $max-vw, $h4-min, $h4-max);
   margin-top: 40px;
 }
 
