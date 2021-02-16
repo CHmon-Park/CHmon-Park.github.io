@@ -60,19 +60,36 @@ h1 {
 }
 
 h2 {
-  @include fluid-type($min-vw, $max-vw, $h2-min, $h2-max);
+  @include fluid-type($min-vw, $max-vw, $h2-min, $h1-max);
+  color: #4477d7;
+  font-family: Ebrima;
+  background: #ffc1c1;
+  padding-top: 15px;
+  padding-bottom: 15px;
+  padding-left: 70px;
+  padding-right: 150px;
+  margin-top: 50px;
+  margin-bottom: 30px;
+  width: fit-content;
+  border-radius: 10px;
+  border-style: dashed;
+  border-width: thick;
 }
 
 h3 {
-  @include fluid-type($min-vw, $max-vw, $h3-min, $h3-max);
+  @include fluid-type($min-vw, $max-vw, $h3-min, $h2-max);
+  color: #00adb5;
+  margin-top: 50px;
 }
 
 h4 {
-  @include fluid-type($min-vw, $max-vw, $h4-min, $h4-max);
+  @include fluid-type($min-vw, $max-vw, $h4-min, $h3-max);
+  margin-top: 40px;
 }
 
 h5 {
   @include fluid-type($min-vw, $max-vw, $h5-min, $h5-max);
+  margin-top: 40px;
 }
 
 h6 {

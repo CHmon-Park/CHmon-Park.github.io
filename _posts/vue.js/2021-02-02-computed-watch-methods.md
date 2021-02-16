@@ -31,7 +31,7 @@ last_modified_at: 2021-02-13T14:20:00
   * computed의 경우 반드시 return 값이 존재해야 한다. 
 
 
-### Computed vs Watch
+## Computed vs Watch
 
   * 두 기능은 모두 자신에게 종속되어 있는 데이터의 상태에 따라 함수 실행의 여부가 결정된다는 공통점이 있다.
   
