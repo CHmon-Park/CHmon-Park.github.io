@@ -1,5 +1,5 @@
 {% if page.categories.size > 0 %}
-  <h3 class="page-taxonomies-title">{{ site.data.text[site.locale].categories | default: 'Categories' }}</h3>
+  <p class="page-taxonomies-title" style="font-weight: bold; font-size: large; font-family: Calibri; color: #e4405f; text-decoration: underline">{{ site.data.text[site.locale].categories | default: 'Categories' }}</p>
   {% assign categories = page.categories | sort %}
   <ul class="page-taxonomies">
     {%- for category in categories -%}
