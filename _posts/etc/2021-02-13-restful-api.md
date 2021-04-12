@@ -3,7 +3,7 @@ title: "Restful API"
 excerpt: "Kinds of Restful API, and what they mean"
 excerpt_separator: "<!--more-->"
 categories:
-  - ETC
+  - Etc
 tags:
   - Restful API
   - Server

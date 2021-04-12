@@ -3,7 +3,7 @@ title: "Micro Frontend"
 excerpt: "Definition of Micro Frontend"
 excerpt_separator: "<!--more-->"
 categories:
-  - ETC
+  - Etc
 tags:
   - Micro Frontend
 last_modified_at: 2021-02-16T09:00:00

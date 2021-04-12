@@ -3,7 +3,7 @@ title: "Spread and Rest"
 excerpt: "What are Spread and Rest in Javascript"
 excerpt_separator: "<!--more-->"
 categories:
-  - Javascript
+  - JavaScript
 tags:
   - Spread
   - Rest
