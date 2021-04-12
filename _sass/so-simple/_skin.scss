@@ -39,7 +39,7 @@ blockquote {
 }
 
 .taxonomy-title {
-  color: lighten($text-color, 60%);
+  //color: lighten($text-color, 60%);
 }
 
 .taxonomy-count {
@@ -180,7 +180,6 @@ td {
   border-bottom-color: $border-color;
 }
 
-
 /* ==========================================================================
    NOTICE TEXT BLOCKS
    ========================================================================== */
@@ -237,12 +236,12 @@ td {
 
 .btn {
   /* button colors */
-  $buttoncolors: (primary, $primary-color), (accent, $accent-color), (inverse, #fff),
-  (light-outline, transparent),  (success, $success-color),
-  (warning, $warning-color),  (danger, $danger-color),  (info, $info-color),
-  (facebook, $facebook-color),  (twitter, $twitter-color),
-  (google-plus, $google-plus-color),  (linkedin, $linkedin-color),
-  (reddit, $reddit-color);
+  $buttoncolors: (primary, $primary-color), (accent, $accent-color),
+    (inverse, #fff), (light-outline, transparent), (success, $success-color),
+    (warning, $warning-color), (danger, $danger-color), (info, $info-color),
+    (facebook, $facebook-color), (twitter, $twitter-color),
+    (google-plus, $google-plus-color), (linkedin, $linkedin-color),
+    (reddit, $reddit-color);
 
   @each $buttoncolor, $color in $buttoncolors {
     &--#{$buttoncolor} {
